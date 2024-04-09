@@ -1,0 +1,9 @@
+spacy
+jupyterlab
+scikit-learn
+pandas
+matplotlib
+notebook
+seaborn
+nltk
+ipywidgets
